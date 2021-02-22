@@ -1,6 +1,6 @@
 # DiscordDMBot
 
-This discord bot is used to dm individual users or a group of users. The bot can take the ids of everyone in a role to then allow a user to have the bot dm that group of users. Invite the bot here: 
+This discord bot is used to dm individual users or a group of users. The bot can take the ids of everyone in a role to then allow a user to have the bot dm that group of users. Invite the bot here: https://discord.com/api/oauth2/authorize?client_id=813397302538010688&permissions=67584&scope=bot
 
 ![dm commands](https://user-images.githubusercontent.com/38481385/108740665-e9098900-7503-11eb-8cc1-c90961690bea.png)
 
